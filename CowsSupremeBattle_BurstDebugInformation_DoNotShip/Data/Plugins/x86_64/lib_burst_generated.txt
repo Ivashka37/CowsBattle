@@ -11,7 +11,6 @@ Library: D:\UnityProjects\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_bu
 --assembly-defines=Assembly-CSharp;
 --assembly-defines=com.rlabrecque.steamworks.net;
 --assembly-defines=Unity.2D.IK.Runtime;
---assembly-defines=FizzySteamworks;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Mirror;
 --assembly-defines=Unity.VisualScripting.Core;
@@ -28,6 +27,7 @@ Library: D:\UnityProjects\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_bu
 --assembly-defines=Mirror.Authenticators;
 --assembly-defines=Mirror.Examples;
 --assembly-defines=Unity.Collections;
+--assembly-defines=FizzySteamworks;
 --assembly-defines=Unity.2D.SpriteShape.Runtime;
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=Unity.Mathematics;
@@ -111,7 +111,6 @@ Library: D:\UnityProjects\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_bu
 --assembly-defines=Assembly-CSharp;
 --assembly-defines=com.rlabrecque.steamworks.net;
 --assembly-defines=Unity.2D.IK.Runtime;
---assembly-defines=FizzySteamworks;
 --assembly-defines=Unity.Burst;
 --assembly-defines=Mirror;
 --assembly-defines=Unity.VisualScripting.Core;
@@ -128,6 +127,7 @@ Library: D:\UnityProjects\My project\Temp\BurstOutput\Data\Plugins\x86_64\lib_bu
 --assembly-defines=Mirror.Authenticators;
 --assembly-defines=Mirror.Examples;
 --assembly-defines=Unity.Collections;
+--assembly-defines=FizzySteamworks;
 --assembly-defines=Unity.2D.SpriteShape.Runtime;
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=Unity.Mathematics;

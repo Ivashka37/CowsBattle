@@ -1,2 +1,2 @@
 # CowsSupremeBattle
-prototype
+weird game
